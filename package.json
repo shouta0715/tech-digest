@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "tech-digest",
   "private": true,
   "scripts": {
     "build": "turbo run build",
