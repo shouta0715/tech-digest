@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
     authInterrupts: true,
     dynamicIO: true,
   },
+  transpilePackages: ['geist'],
 };
 
 export default nextConfig;
