@@ -1,7 +1,7 @@
-import { GeistSans } from 'geist/font/sans';
-import { GeistMono } from 'geist/font/mono';
-import '../styles/global.css';
-import { cn } from '@/utils/cn';
+import { GeistMono } from "geist/font/mono";
+import { GeistSans } from "geist/font/sans";
+import "../styles/global.css";
+import { cn } from "@/utils/cn";
 
 export default function RootLayout({
   children,
